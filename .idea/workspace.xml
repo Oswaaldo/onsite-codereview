@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96d5e812-17fb-4273-b417-40efdb6ba1ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="onsite-codereview" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZfupyUIn5yEtsLyfTKgqXbSDA2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestMe">
+    <configuration name="TestMe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="onsite-codereview" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestMe" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$KOTLIN_BUNDLED$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="onsite-codereview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="test.TestMe" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMe.checkoutFlowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="onsite-codereview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestMe" />
+      <option name="METHOD_NAME" value="checkoutFlowTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="onsite-codereview" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="onsite-codereview" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMe" />
+        <item itemvalue="JUnit.TestMe.checkoutFlowTest" />
+        <item itemvalue="JUnit.TestMe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96d5e812-17fb-4273-b417-40efdb6ba1ba" name="Default Changelist" comment="" />
+      <created>1585242655505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585242655505</updated>
+      <workItem from="1585245720514" duration="217000" />
+      <workItem from="1585245966961" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="95" key="#Project_Structure" timestamp="1585245754338">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="94" key="#Project_Structure/0.23.1440.814@0.23.1440.814" timestamp="1585245269960" />
+    <state x="320" y="95" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1585245754338" />
+    <state x="315" y="75" key="#TestMe" timestamp="1585246142204">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="295" y="79" key="#TestMe.checkoutFlowTest" timestamp="1585245744268">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="295" y="79" key="#TestMe.checkoutFlowTest/0.23.1440.821@0.23.1440.821" timestamp="1585245744268" />
+    <state x="315" y="75" key="#TestMe/0.23.1440.821@0.23.1440.821" timestamp="1585246142204" />
+    <state x="315" y="75" key="#TestMe_(1)" timestamp="1585246041914">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="315" y="75" key="#TestMe_(1)/0.23.1440.821@0.23.1440.821" timestamp="1585246041914" />
+    <state x="495" y="185" key="EnvironmentVariablesDialog" timestamp="1585246091675">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="495" y="185" key="EnvironmentVariablesDialog/0.23.1440.821@0.23.1440.821" timestamp="1585246091675" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1585246320129">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585246248030" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585246320129" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1585246320128">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585246248030" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1585246320128" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1585246320128">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585246248030" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1585246320128" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1585246320129">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585246248030" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585246320129" />
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1585245805830">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1585244793870" />
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1585245805830" />
+    <state x="399" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1585245967140">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="399" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1585244777296" />
+    <state x="399" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1585245967140" />
+    <state x="386" y="72" width="667" height="714" key="find.popup" timestamp="1585243895855">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="386" y="72" width="667" height="714" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1585243895855" />
+  </component>
+</project>
